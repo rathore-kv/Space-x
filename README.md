@@ -1,7 +1,7 @@
 # Space-x
 
 
-A front-end application which would help users list and browse all launches by SpaceX program.
+# A front-end application which would help users list and browse all launches by SpaceX program.
 
 ## Installation
 To install, simply clone this repository & run the following command  `yarn` or `npm install`, this will install all the dependencies for you.
@@ -11,7 +11,7 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 ### Netlify Deployment
 
-SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](space-xlaunch.netlify.app)
+SpaceX app is deployed on **Netlify** [Spacex-Launch](space-xlaunch.netlify.app)
 
 
 ## UI And Filter Implementation
@@ -21,15 +21,15 @@ SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](space-xlaunch.net
 
 
 #  After Applying Launch Year Filter
-
+![Preview](preview1.png)
 
 
 #  After Applying Successful Launch Filter
-
+![Preview](preview2.png)
 
 
 # After Applying Launch Year, Successful Launch and Landing Success Filter
 
-
+![Preview](preview3.png)
 
 # Developed By [KARAMBIR SINGH](https://github.com/rathore-kv)
