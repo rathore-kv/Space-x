@@ -11,7 +11,7 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 ### Netlify Deployment
 
-SpaceX app is deployed on **Netlify** [Spacex-Launch](space-xlaunch.netlify.app)
+SpaceX app is deployed on **Netlify** [Spacex-Launch](space-xlaunch.netlify.app/)
 
 
 ## UI And Filter Implementation
