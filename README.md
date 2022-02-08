@@ -9,9 +9,8 @@ To install, simply clone this repository & run the following command  `yarn` or 
 ## Running Project
 To run this project locally, run the following command  `yarn start` or `npm start`, this will start a local instance of the application & you will be able to run the app in your browser.
 
-### Netlify Deployment
-
-SpaceX app is deployed on **Netlify** [Spacex-Launch](space-xlaunch.netlify.app/)
+### SEE LIVE HERE
+https://space-xlaunch.netlify.app/
 
 
 ## UI And Filter Implementation
